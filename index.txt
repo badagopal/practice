@@ -1,1 +1,3 @@
-"Updated index content" 
+FROM nginx:alpine
+
+EXPOSE 80
